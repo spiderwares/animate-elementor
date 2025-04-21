@@ -17,7 +17,6 @@
 Animate Elementor adds custom animation controls to Elementor widgets and sections. With this plugin, you can easily add animations to your Elementor-based pages without needing to write any code. Enhance the user experience by adding smooth animations to your sections, widgets, and other elements.
 
 This plugin integrates the following powerful animation libraries:
-- **[Tilt.js](https://gijsroge.github.io/tilt.js/)**  – Adds interactive tilt effects to elements.
 - **[AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)**  – Provides scroll-based animations to elements as they appear in the viewport.
 
 ## Features
@@ -46,9 +45,6 @@ This plugin integrates the following powerful animation libraries:
 5. Save your changes, and your animation will be applied.
 
 ## External Libraries
-
-- **[Tilt.js](https://gijsroge.github.io/tilt.js/)** is used to create interactive tilt effects when hovering over elements. This is integrated into the plugin to add a smooth 3D tilt effect to widgets and sections.
-  
 - **[AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)** is integrated to animate elements when they enter the viewport as the user scrolls down the page. You can add various animations like fade, slide, zoom, etc., that trigger on scroll.
 
 Both libraries enhance the overall experience of the plugin, offering smooth animations and a more interactive feel to your Elementor-based pages.
@@ -84,7 +80,4 @@ We welcome contributions to improve this plugin. If you'd like to contribute, pl
 For support, please contact the plugin author at [harshilitaliya](mailto:i.harshil8493@gmail.com) or visit the plugin's support forum.
 
 ## Credits
-
-- Developed by **harshilitaliya**
-- Uses **[Tilt.js](https://gijsroge.github.io/tilt.js/)** for tilt effects.
 - Uses **[AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)** for scroll-based animations.

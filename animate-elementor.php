@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Animate Elementor
- * Description:       Adds custom animation controls to Elementor widgets and sections.
+ * Description:       Animate Elementor lets you effortlessly add smooth and stylish scroll animations to your Elementor widgets using the lightweight and powerful AOS (Animate On Scroll) library.
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.4
@@ -39,5 +39,5 @@ if ( ! defined( 'ANELM_UPGRADE_URL' ) ) :
 	define( 'ANELM_UPGRADE_URL', '#' ); // Define the upgrade URL.
 endif;
 
-include_once ANELM_PATH . 'includes/class-anelm-aos.php';
-new ANELM_AOS();
+include_once ANELM_PATH . 'includes/class-anelm.php';
+ANELM::instance();
