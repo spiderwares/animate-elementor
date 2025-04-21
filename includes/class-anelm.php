@@ -33,11 +33,8 @@ if ( ! class_exists( 'ANELM' ) ) :
          * Initialize hooks and filters.
          */
         private function init_hooks() {
-            // Register plugin activation hook
-            register_activation_hook( ANELM_FILE, array( 'ANELM_install', 'install' ) );
-
             // Hook to install the plugin after plugins are loaded
-            add_action( 'plugins_loaded', array( $this, 'anelm_install' ), 11 );
+            add_action( 'plugins_loaded', array( $this, 'load_plugin' ), 11 );
             add_action( 'anelm_init', array( $this, 'includes' ), 11 );
         }
 
@@ -55,7 +52,7 @@ if ( ! class_exists( 'ANELM' ) ) :
         /**
          * Function to initialize the plugin after Elementor is loaded.
          */
-        public function anelm_install() {
+        public function load_plugin() {
             if ( ! did_action( 'elementor/loaded' ) ) {
                 // Elementor is not active.
                 add_action( 'admin_notices', array( $this, 'admin_notice' ) );

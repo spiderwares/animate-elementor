@@ -21,19 +21,7 @@ if ( ! class_exists( 'ANELM_install' ) ) :
          * Hook into WordPress actions and filters.
          */
         public static function init() {
-            add_filter( 'plugin_action_links_' . ANELM_BASENAME, array( __CLASS__, 'plugin_action_links' ) );
-        }
-
-        /**
-         * Install plugin.
-         *
-         * Creates tables, roles, and necessary pages on plugin activation.
-         */
-        public static function install() {
-            if ( ! is_blog_installed() ) :
-                return;
-            endif;
-            
+            add_filter( 'plugin_action_links_' . ANELM_BASENAME, array( __CLASS__, 'plugin_action_links' ), 10, 1 );
         }
 
         /**
