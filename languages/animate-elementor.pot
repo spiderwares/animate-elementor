@@ -1,0 +1,347 @@
+# Copyright (C) 2025 harshilitaliya
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Animate Elementor 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/animate-elementor\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-21T12:11:51+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: animate-elementor\n"
+
+#. Plugin Name of the plugin
+#: D:\wamp64\www\interactive-tour-builder\wp-content\plugins\animate-elementor\animate-elementor.php
+#: includes/class-anelm-aos.php:79
+msgid "Animate Elementor"
+msgstr ""
+
+#. Description of the plugin
+#: D:\wamp64\www\interactive-tour-builder\wp-content\plugins\animate-elementor\animate-elementor.php
+msgid "Adds custom animation controls to Elementor widgets and sections."
+msgstr ""
+
+#. Author of the plugin
+#: D:\wamp64\www\interactive-tour-builder\wp-content\plugins\animate-elementor\animate-elementor.php
+msgid "harshilitaliya"
+msgstr ""
+
+#: includes/class-anelm-aos.php:87
+msgid "Enable On Scroll Animation"
+msgstr ""
+
+#: includes/class-anelm-aos.php:89
+msgid "Yes"
+msgstr ""
+
+#: includes/class-anelm-aos.php:90
+msgid "No"
+msgstr ""
+
+#: includes/class-anelm-aos.php:99
+msgid "Animation Type"
+msgstr ""
+
+#: includes/class-anelm-aos.php:110
+msgid "Offset (px)"
+msgstr ""
+
+#: includes/class-anelm-aos.php:120
+msgid "Delay (ms)"
+msgstr ""
+
+#: includes/class-anelm-aos.php:130
+msgid "Duration (ms)"
+msgstr ""
+
+#: includes/class-anelm-aos.php:140
+msgid "Easing"
+msgstr ""
+
+#: includes/class-anelm-aos.php:151
+msgid "Animate Only Once?"
+msgstr ""
+
+#: includes/class-anelm-aos.php:162
+msgid "Mirror Animation on Scroll Up?"
+msgstr ""
+
+#: includes/class-anelm-aos.php:173
+msgid "Anchor Placement"
+msgstr ""
+
+#: includes/class-anelm-aos.php:184
+msgid "Disable AOS on Devices"
+msgstr ""
+
+#: includes/class-anelm-aos.php:188
+msgid "none"
+msgstr ""
+
+#: includes/class-anelm-aos.php:189
+msgid "Tablet"
+msgstr ""
+
+#: includes/class-anelm-aos.php:190
+msgid "Mobile"
+msgstr ""
+
+#: includes/class-anelm-aos.php:200
+msgid "Start Event"
+msgstr ""
+
+#: includes/class-anelm-aos.php:203
+msgid "Event that triggers AOS initialization. default: DOMContentLoaded"
+msgstr ""
+
+#: includes/class-anelm-aos.php:211
+msgid "Init Class Name"
+msgstr ""
+
+#: includes/class-anelm-aos.php:214
+msgid "Class applied after initialization."
+msgstr ""
+
+#: includes/class-anelm-aos.php:222
+msgid "Animated Class Name"
+msgstr ""
+
+#: includes/class-anelm-aos.php:225
+msgid "Class applied when animation is triggered."
+msgstr ""
+
+#: includes/class-anelm-aos.php:233
+msgid "Use Class Names?"
+msgstr ""
+
+#: includes/class-anelm-aos.php:235
+msgid "Apply `data-aos` value as a class name."
+msgstr ""
+
+#: includes/class-anelm-aos.php:303
+msgid "Fade"
+msgstr ""
+
+#: includes/class-anelm-aos.php:304
+msgid "Fade Up"
+msgstr ""
+
+#: includes/class-anelm-aos.php:305
+msgid "Fade Down"
+msgstr ""
+
+#: includes/class-anelm-aos.php:306
+msgid "Fade Left"
+msgstr ""
+
+#: includes/class-anelm-aos.php:307
+msgid "Fade Right"
+msgstr ""
+
+#: includes/class-anelm-aos.php:308
+msgid "Fade Up Right"
+msgstr ""
+
+#: includes/class-anelm-aos.php:309
+msgid "Fade Up Left"
+msgstr ""
+
+#: includes/class-anelm-aos.php:310
+msgid "Fade Down Right"
+msgstr ""
+
+#: includes/class-anelm-aos.php:311
+msgid "Fade Down Left"
+msgstr ""
+
+#: includes/class-anelm-aos.php:312
+msgid "Flip Left"
+msgstr ""
+
+#: includes/class-anelm-aos.php:313
+msgid "Flip Right"
+msgstr ""
+
+#: includes/class-anelm-aos.php:314
+msgid "Flip Up"
+msgstr ""
+
+#: includes/class-anelm-aos.php:315
+msgid "Flip Down"
+msgstr ""
+
+#: includes/class-anelm-aos.php:316
+msgid "Slide Up"
+msgstr ""
+
+#: includes/class-anelm-aos.php:317
+msgid "Slide Down"
+msgstr ""
+
+#: includes/class-anelm-aos.php:318
+msgid "Slide Left"
+msgstr ""
+
+#: includes/class-anelm-aos.php:319
+msgid "Slide Right"
+msgstr ""
+
+#: includes/class-anelm-aos.php:320
+msgid "Zoom In"
+msgstr ""
+
+#: includes/class-anelm-aos.php:321
+msgid "Zoom In Up"
+msgstr ""
+
+#: includes/class-anelm-aos.php:322
+msgid "Zoom In Down"
+msgstr ""
+
+#: includes/class-anelm-aos.php:323
+msgid "Zoom In Left"
+msgstr ""
+
+#: includes/class-anelm-aos.php:324
+msgid "Zoom In Right"
+msgstr ""
+
+#: includes/class-anelm-aos.php:325
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/class-anelm-aos.php:326
+msgid "Zoom Out Up"
+msgstr ""
+
+#: includes/class-anelm-aos.php:327
+msgid "Zoom Out Down"
+msgstr ""
+
+#: includes/class-anelm-aos.php:328
+msgid "Zoom Out Left"
+msgstr ""
+
+#: includes/class-anelm-aos.php:329
+msgid "Zoom Out Right"
+msgstr ""
+
+#: includes/class-anelm-aos.php:340
+msgid "Linear"
+msgstr ""
+
+#: includes/class-anelm-aos.php:341
+msgid "Ease"
+msgstr ""
+
+#: includes/class-anelm-aos.php:342
+msgid "Ease In"
+msgstr ""
+
+#: includes/class-anelm-aos.php:343
+msgid "Ease Out"
+msgstr ""
+
+#: includes/class-anelm-aos.php:344
+msgid "Ease In Out"
+msgstr ""
+
+#: includes/class-anelm-aos.php:345
+msgid "Ease In Back"
+msgstr ""
+
+#: includes/class-anelm-aos.php:346
+msgid "Ease Out Back"
+msgstr ""
+
+#: includes/class-anelm-aos.php:347
+msgid "Ease In Out Back"
+msgstr ""
+
+#: includes/class-anelm-aos.php:348
+msgid "Ease In Sine"
+msgstr ""
+
+#: includes/class-anelm-aos.php:349
+msgid "Ease Out Sine"
+msgstr ""
+
+#: includes/class-anelm-aos.php:350
+msgid "Ease In Out Sine"
+msgstr ""
+
+#: includes/class-anelm-aos.php:351
+msgid "Ease In Quad"
+msgstr ""
+
+#: includes/class-anelm-aos.php:352
+msgid "Ease Out Quad"
+msgstr ""
+
+#: includes/class-anelm-aos.php:353
+msgid "Ease In Out Quad"
+msgstr ""
+
+#: includes/class-anelm-aos.php:354
+msgid "Ease In Cubic"
+msgstr ""
+
+#: includes/class-anelm-aos.php:355
+msgid "Ease Out Cubic"
+msgstr ""
+
+#: includes/class-anelm-aos.php:356
+msgid "Ease In Out Cubic"
+msgstr ""
+
+#: includes/class-anelm-aos.php:357
+msgid "Ease In Quart"
+msgstr ""
+
+#: includes/class-anelm-aos.php:358
+msgid "Ease Out Quart"
+msgstr ""
+
+#: includes/class-anelm-aos.php:359
+msgid "Ease In Out Quart"
+msgstr ""
+
+#: includes/class-anelm-aos.php:370
+msgid "Top Bottom"
+msgstr ""
+
+#: includes/class-anelm-aos.php:371
+msgid "Top Center"
+msgstr ""
+
+#: includes/class-anelm-aos.php:372
+msgid "Top Top"
+msgstr ""
+
+#: includes/class-anelm-aos.php:373
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/class-anelm-aos.php:374
+msgid "Center Center"
+msgstr ""
+
+#: includes/class-anelm-aos.php:375
+msgid "Center Top"
+msgstr ""
+
+#: includes/class-anelm-aos.php:376
+msgid "Bottom Bottom"
+msgstr ""
+
+#: includes/class-anelm-aos.php:377
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/class-anelm-aos.php:378
+msgid "Bottom Top"
+msgstr ""
