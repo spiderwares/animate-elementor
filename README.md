@@ -3,11 +3,12 @@
 **Plugin Name**: Animate Elementor  
 **Description**: Adds custom animation controls to Elementor widgets and sections.  
 **Version**: 1.0.0  
-**Requires at least**: 5.0  
-**Requires PHP**: 7.0  
+**Requires at least**: 6.0  
+**Requires PHP**: 7.4  
 **Tested up to**: 6.8  
 **Stable tag**: 1.0.0
 **Author**: harshilitaliya  
+**Contributors:** harshilitaliya
 **License**: GPL v2 or later  
 **Text Domain**: animate-elementor  
 **Domain Path**: /languages  
