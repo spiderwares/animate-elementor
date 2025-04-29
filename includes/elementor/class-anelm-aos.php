@@ -380,4 +380,6 @@ if ( ! class_exists( 'ANELM_AOS' ) ) :
 		}
 	}
 
+	new ANELM_AOS();
+
 endif;

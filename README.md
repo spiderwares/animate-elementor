@@ -1,84 +1,107 @@
 # Animate Elementor
 
 **Plugin Name**: Animate Elementor  
-**Description**: Adds custom animation controls to Elementor widgets and sections.  
+**Description**: 🎯 Adds scroll-based animation controls to Elementor widgets and sections using AOS (Animate On Scroll).  
 **Version**: 1.0.0  
 **Requires at least**: 6.0  
 **Requires PHP**: 7.4  
 **Tested up to**: 6.8  
-**Stable tag**: 1.0.0
+**Stable tag**: 1.0.0  
 **Author**: harshilitaliya  
-**Contributors:** harshilitaliya
+**Contributors**: harshilitaliya  
 **License**: GPL v2 or later  
 **Text Domain**: animate-elementor  
 **Domain Path**: /languages  
 
-## Description
+Animate Elementor adds smooth scroll-based animations to Elementor widgets and sections using AOS — no coding required.
 
-Animate Elementor adds custom animation controls to Elementor widgets and sections. With this plugin, you can easily add animations to your Elementor-based pages without needing to write any code. Enhance the user experience by adding smooth animations to your sections, widgets, and other elements.
 
-This plugin integrates the following powerful animation libraries:
-- **[AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)**  – Provides scroll-based animations to elements as they appear in the viewport.
+##  Description
 
-## Features
+Animate Elementor adds lightweight, smooth, and fully customizable scroll-based animation controls to Elementor widgets and sections. Using the popular **AOS** (Animate On Scroll) library, you can trigger animations like fade, slide, and zoom as users scroll through your pages.
 
-- Easy-to-use animation controls for Elementor widgets and sections.
-- Add animations such as fade, slide, bounce, and more.
-- Support for interactive tilt effects using **Tilt.js**.
-- Scroll-based animations with **AOS**.
-- Seamless integration with Elementor.
-- Lightweight and fast.
-- Simple and intuitive user interface.
+🔹 **No coding needed** – just simple controls inside Elementor.  
+🔹 **Fast and lightweight** – optimized for performance.  
+🔹 **Compatible** with Elementor Free and Pro versions.
+
+
+## 🚀 Features
+
+– 🎨 Add scroll animations to any Elementor widget or section.
+– 🎯 Wide range of animation effects: fade, slide, zoom, flip, and more.
+– ⚡ Powered by **[AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)**.
+– 🛠️ No extra libraries — lightweight and optimized.
+– 🧩 Seamless integration with Elementor UI.
+– 💬 Simple and intuitive settings.
+
 
 ## Installation
 
 1. Download the **Animate Elementor** plugin.
-2. Upload the plugin files to the `/wp-content/plugins/animate-elementor` directory, or install the plugin through the WordPress plugin screen directly.
+2. Upload the plugin to `/wp-content/plugins/animate-elementor` directory or install via the WordPress Plugins screen.
 3. Activate the plugin through the **Plugins** menu in WordPress.
-4. Once activated, the custom animation controls will be available in the Elementor editor.
+4. Edit your pages with Elementor and start adding animations!
 
-## Usage
 
-1. Open your page with the Elementor editor.
-2. Select a widget or section.
-3. You will see new animation options in the widget/section settings.
-4. Choose an animation from the available list and adjust the settings as needed.
-5. Save your changes, and your animation will be applied.
+## 🎮 Usage
 
-## External Libraries
-- **[AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)** is integrated to animate elements when they enter the viewport as the user scrolls down the page. You can add various animations like fade, slide, zoom, etc., that trigger on scroll.
+1. Open any page in the Elementor editor.
+2. Select the widget or section you want to animate.
+3. Go to the **Animation Settings** panel.
+4. Choose an animation effect and configure options like delay or duration.
+5. Save and preview your page to see the animation in action!
 
-Both libraries enhance the overall experience of the plugin, offering smooth animations and a more interactive feel to your Elementor-based pages.
 
-## FAQ
+## Screenshots
 
-### Q1: How do I enable animations for a widget or section?
-A1: Once you have installed and activated the plugin, you can select a widget or section in the Elementor editor and access the animation settings from the widget's settings panel.
-
-### Q2: Which animations are supported?
-A2: The plugin supports a variety of animations, such as fade, slide, bounce, and others. The full list of available animations can be found in the widget settings.
-
-### Q3: Is the plugin compatible with the free version of Elementor?
-A3: Yes, the plugin works with both the free and pro versions of Elementor.
+1. **Animation Examples** – See animations like fade, slide, and zoom applied to Elementor widgets and sections.
+2. **Animation Types** – Includes fade-up, fade-down, fade-right, slide-up, and many more effects.
+3. **Easing Options** – Customize animation easing with presets like ease-in, ease-out, ease-in-back, and others.
+4. **Anchor Placement** – Set where the animation triggers: top-bottom, top-center, center-center, etc.
 
 ## Changelog
 
+### 1.0.0 – Initial Release
+
+– ✅ Added AOS integration for scroll-based animations  
+– ✅ Custom animation controls for Elementor widgets and sections  
+– ✅ Lightweight and responsive  
+– ✅ Clean UI with live preview support
+
+
+## Upgrade Notice
+
 ### 1.0.0
-- Initial release.
-- Integrated **Tilt.js** for interactive tilt effects.
-- Integrated **AOS (Animate On Scroll)** for scroll-based animations.
+– Initial Release.
+– 🎯 Add scroll-based animations using AOS in Elementor.
+– 🛠️ Lightweight and easy to use.
 
-## License
 
-This plugin is released under the **GPL v2 or later** license. See the [LICENSE](https://www.gnu.org/licenses/gpl-2.0.html) file for more details.
+##  FAQ
 
-## Contributing
+### Q1: How do I enable animations?
+After activating the plugin, open any Elementor page, select an element, and configure its Animation settings.
 
-We welcome contributions to improve this plugin. If you'd like to contribute, please fork the repository and submit a pull request with your proposed changes.
+### Q2: Which animations are included?
+Animate Elementor supports fade, slide, zoom, flip, and other scroll-triggered effects.
 
-## Support
+### Q3: Will it work with Elementor Free version?
+Yes! Animate Elementor is compatible with both free and pro versions of Elementor.
 
-For support, please contact the plugin author at [harshilitaliya](mailto:i.harshil8493@gmail.com) or visit the plugin's support forum.
 
-## Credits
-- Uses **[AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)** for scroll-based animations.
+##  External Libraries
+
+– **[AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)** — For smooth, performant scroll-triggered animations.
+
+##  License
+
+This plugin is licensed under the [GPL v2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+
+##  Contributing
+
+We welcome contributions! Fork the repository, create a feature branch, and submit your pull request.
+
+
+##  Support
+
+Need help? Contact us at [i.harshil8493@gmail.com](mailto:i.harshil8493@gmail.com) or open a ticket on the plugin’s support forum.
